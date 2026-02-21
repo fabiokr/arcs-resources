@@ -1,2 +1,3 @@
 # arcs-resources
-Arcs resources in pt-br
+
+Recursos em Português para auxiliar no jogo ARCS.
